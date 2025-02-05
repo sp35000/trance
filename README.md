@@ -64,4 +64,4 @@ Reference: [https://www.cloudways.com/blog/laravel-bootstrap-template-integratio
 
 ## Calendar
 
-Reference: [https://github.com/omnia-digital/livewire-calendar](https://github.com/omnia-digital/livewire-calendar)
+Reference: [FullCalendar](https://fullcalendar.io/)
